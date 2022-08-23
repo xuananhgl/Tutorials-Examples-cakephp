@@ -1,4 +1,4 @@
-<!-- File: src/Template/Articles/index.ctp  (delete links added) -->
+
 
 <h1>Articles</h1>
 <button><?= $this->Html->link("Add ", ['action' => 'add']) ?></button>
