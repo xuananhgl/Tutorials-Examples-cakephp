@@ -1,7 +1,0 @@
-2022-08-23 02:43:54 Error: [RuntimeException] Unknown command `cake sever`. Run `cake --help` to get the list of valid commands. in D:\Xamm74\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\CommandRunner.php on line 346
-Stack Trace:
-#0 D:\Xamm74\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\CommandRunner.php(157): Cake\Console\CommandRunner->resolveName(Object(Cake\Console\CommandCollection), Object(Cake\Console\ConsoleIo), 'sever')
-#1 D:\Xamm74\htdocs\cakephp\bin\cake.php(12): Cake\Console\CommandRunner->run(Array)
-#2 {main}
-
-
